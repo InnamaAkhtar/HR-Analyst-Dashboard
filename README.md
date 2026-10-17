@@ -7,7 +7,7 @@ This dashboard helps HR teams understand employee trends, monitor employee turno
 
 ## 🖼️ Dashboard Preview
 
-![HR Analyst Dashboard](v
+![HR Analyst Dashboard](Image.png.png)
 
 ## 🎯 Key Performance Indicators (KPIs)
 
