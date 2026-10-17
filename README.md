@@ -57,11 +57,6 @@ These filters help explore employee data from different perspectives.
 - Understand location-wise workforce distribution.
 - Monitor hiring trends and employee-related KPIs.
 
-## 📂 Project Files
-
-- `HR_Dashboard.xlsx` – Excel dashboard file
-- `HR_Dashboard.png` – Dashboard preview image
-
 ## 👩‍💻 Author
 
 **Innama Akhtar**
